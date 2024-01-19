@@ -4,4 +4,4 @@
 
 Para rodar esse projeto na sua máquina, por favor digite:
 
-app node.js
+node app.js
